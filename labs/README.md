@@ -1,24 +1,26 @@
 # Lifting and Shifting Legacy Windows Workloads into Windows Containers Windows Container - Labs
 
+Preconfigured clusters for the bulk of participants
+Option to self-configure for people who want to
+AKS with the Windows preview
+
 ## Schedule
 
 * Introductions and Logistics including access to clusters (20 minutes)
 * Windows Server Containers Introduction (20 minutes)
-* Lab 1 (30 minutes)
-* IIS and ASP.NET apps in Windos Server Containers (10 minutes)
-* Lab  2 (40 minutes)
+* Lab 1 Simple console app (30 minutes)
+* IIS and ASP.NET apps in Windows Server Containers (10 minutes)
+* Lab  2 with NGINX Ingress controller (40 minutes)
 * Break (20 minutes)
-* Windows Services in Containers (10 minutes)
-* Lab 3 (40 minutes)
-
-No time for lab 4
+* Linux and Windows Services in Containers (10 minutes)
+* Lab 3 Mixed workloads in K8s with monitoring (40 minutes)
 
 
 ## Lab 1 - Exploring Windows Containers
 
 - Notes
-- Part 1 - Run a Windows Server container
-- Part 2 - Run a console app in a Windows Container
+- Part 1 - Run a simple Windows Server container (adjust to ssh+kubectl only)
+- Part 2 - Run a console app in a Windows Container (adjust to ssh+kubectl)
 
 ## Lab 2 - Exploring IIS and ASP.NET Websites 
 
