@@ -1,5 +1,19 @@
 # Lifting and Shifting Legacy Windows Workloads into Windows Containers Windows Container - Labs
 
+## Schedule
+
+* Introductions and Logistics including access to clusters (20 minutes)
+* Windows Server Containers Introduction (20 minutes)
+* Lab 1 (30 minutes)
+* IIS and ASP.NET apps in Windos Server Containers (10 minutes)
+* Lab  2 (40 minutes)
+* Break (20 minutes)
+* Windows Services in Containers (10 minutes)
+* Lab 3 (40 minutes)
+
+No time for lab 4
+
+
 ## Lab 1 - Exploring Windows Containers
 
 - Notes

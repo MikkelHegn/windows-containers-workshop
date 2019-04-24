@@ -2,19 +2,13 @@
 
 ## Notes
 
-In this workshop there are two environments that you can run this lab in.
+### Local Windows Machine
 
-### Windows 10 Host with Docker for Windows
----
+You can use a local host, but some things may work differently.
 
-Ensure you have switched to **Windows Containers**. You can do this by right-clicking on the Docker icon in the sytem tray and selecting the `Switch to Windows containers...` option.
+### Windows Server 2019 Host
 
-Windows Containers will only run under Hyper-V isolation on a Windows 10 Host, so you will not experience any failures due to Build version mismatches. If you would like to understand the various failures that you can see when Build versions are mismatched, look at leveraging one of the Window Server 1803 Hosts for this lab.
-
-### Windows Server 1803 Host
----
-
-You can connect to one of the provisioned Windows Server 1803 Hosts by using the ip address, username and password provided to you by the workshop coach.
+You can connect to one of the provisioned Windows Server 2019 Hosts by using the ip address, username and password provided to you by the workshop coach. *TO DO Provide a script to provision a correctly configured machine that works in the Azure Cloud Shell*
 
 Run the following in a Powershell prompt to RDP to the Windows Server 1803 Host. You will be prompted for your username and password.
 
